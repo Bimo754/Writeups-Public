@@ -5,3 +5,4 @@ Unless the machine is retired, the writeups won't be published, if you need hint
 ## Solved boxes
 
 - [VariaType](Linux/Medium/VariaType/README.md)
+- [Kobold](Linux/Easy/Kobold/README.md)
